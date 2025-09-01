@@ -1,2 +1,2 @@
 # cll
-C Linked List Implementation
+C int -> int hash table.
