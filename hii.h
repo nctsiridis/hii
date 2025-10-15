@@ -1,5 +1,5 @@
-#ifndef HASH_H
-#define HASH_H
+#ifndef HII_H
+#define HII_H
 
 #include <stdlib.h>
 #include <stdio.h>

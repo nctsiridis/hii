@@ -1,4 +1,4 @@
-#include "hash.h"
+#include "hii.h"
 
 void hii_print(HashIntInt *hii) {
 	for (int i = 0; i < hii->cap; i++) {

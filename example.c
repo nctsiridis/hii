@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "hash.h"
+#include "hii.h"
 
 int main() {
 	HashIntInt *hii = hii_new();
