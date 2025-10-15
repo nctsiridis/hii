@@ -1,2 +1,2 @@
 # hii (HashIntInt)
-Light weight hash map implementation in C, hashes signed int32 -> int32
+Light weight hash map implementation in C, hashes int32 -> int32
